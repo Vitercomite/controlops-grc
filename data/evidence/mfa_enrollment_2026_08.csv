@@ -1,0 +1,7 @@
+user,status,mfa_enrolled
+user01,active,YES
+user02,active,YES
+user03,active,NO
+user04,active,NO
+user05,active,NO
+user06,active,YES

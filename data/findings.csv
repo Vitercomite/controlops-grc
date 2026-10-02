@@ -1,0 +1,5 @@
+id,control_id,test_id,title,severity,description,owner,remediation_plan,due_date,status,opened_on,closed_on,retest_result
+1,IAM-002,3,Unauthorized Admin Access,HIGH,2 users have administrative privileges without current approval.,Infrastructure Security,,2026-10-15,OPEN,2026-09-15,,
+2,AC-003,4,Expired Access Approval,MEDIUM,4 temporary access grants remain active after their approved expiry date.,IT Operations,Revoke expired grants and add automated expiry job.,2026-09-25,IN_REMEDIATION,2026-09-05,,
+3,IAM-001,1,Missing MFA,HIGH,3 active users are not enrolled in MFA.,IAM Team,Enforce enrollment via conditional access policy.,2026-09-15,CLOSED,2026-08-12,2026-09-20,PASS
+4,VM-001,11,Critical Patches Beyond SLA,HIGH,5 critical vulnerabilities remain unpatched beyond the 14-day SLA.,Infrastructure Operations,,2026-09-20,OPEN,2026-09-18,,

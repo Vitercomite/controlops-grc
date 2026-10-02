@@ -1,0 +1,4 @@
+source,retention_months,policy_min
+firewall,13,12
+idp,24,12
+endpoint,12,12

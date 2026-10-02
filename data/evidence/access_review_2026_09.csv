@@ -1,0 +1,7 @@
+user,admin_role,approval_id,approval_expires,approved
+a.silva,Domain Admin,APR-1021,2027-03-01,YES
+b.costa,Domain Admin,APR-1022,2027-03-01,YES
+c.lima,Server Admin,APR-0877,2026-06-30,NO
+d.souza,Database Admin,APR-1030,2027-01-15,YES
+e.rocha,Server Admin,,,NO
+f.alves,Network Admin,APR-1033,2027-02-10,YES

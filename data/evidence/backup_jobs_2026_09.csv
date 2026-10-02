@@ -1,0 +1,3 @@
+job,runs,failures_rerun
+nightly-db,30,0
+nightly-files,30,1
